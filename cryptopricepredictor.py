@@ -37,7 +37,7 @@ def navigation_bar():
     st.markdown("""
     <style>
     .nav-container {
-        background-color: #B19F9E;
+        background-color: #ede8f5
         padding: 10px;
         border-radius: 10px;
         box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -46,6 +46,7 @@ def navigation_bar():
     }
     .nav-link {
         color: black;
+  
         text-decoration: none;
         padding: 10px 20px;
         display: inline-block;
@@ -53,7 +54,7 @@ def navigation_bar():
         transition: background-color 0.3s, box-shadow 0.3s;
     }
     .nav-link:hover {
-        background-color: #90CCF4;
+        background-color: #ABDDBA;
         box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
     }
     </style>
@@ -63,6 +64,7 @@ def navigation_bar():
         
     </div>
     """, unsafe_allow_html=True)
+
 
 # Call the function to display the navigation bar
 navigation_bar()
