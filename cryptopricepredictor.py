@@ -37,10 +37,6 @@ def navigation_bar():
     st.markdown("""
     <style>
     .nav-container {
-         position: -webkit-sticky; /* Safari */
-        position: sticky;
-        top: 0;
-        z-index: 9999;
         background-color: #f1f3f6;
         padding: 10px;
         border-radius: 10px;
