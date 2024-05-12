@@ -1,0 +1,9 @@
+pandas==2.2.2
+plotly==5.9.0
+prophet==1.1.5
+pygwalker==0.4.8.3
+Requests==2.31.0
+streamlit==1.30.0
+streamlit==1.33.0
+yfinance==0.2.37
+streamlit==1.32.2
