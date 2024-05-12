@@ -37,7 +37,7 @@ def navigation_bar():
     st.markdown("""
     <style>
     .nav-container {
-        background-color: #f1f3f6;
+        background-color: #B19F9E;
         padding: 10px;
         border-radius: 10px;
         box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -53,7 +53,7 @@ def navigation_bar():
         transition: background-color 0.3s, box-shadow 0.3s;
     }
     .nav-link:hover {
-        background-color: #e8e8e8;
+        background-color: #90CCF4;
         box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
     }
     </style>
