@@ -1,4 +1,4 @@
-# CRPTOCURRENCY PRICE PREDICTION DASHBOARD
+# CRYPTOCURRENCY PRICE PREDICTION DASHBOARD
 
 Welcome to the CRYPTOCURRENCY PRICE PREDCITION Dashboard! This dashboard provides comprehensive tools for analyzing and visualizing financial data, making it easier to understand market trends and make informed decisions.
 
